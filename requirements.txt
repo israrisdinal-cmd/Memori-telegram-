@@ -2,7 +2,7 @@ python-telegram-bot==21.7
 fastapi==0.115.0
 uvicorn==0.30.0
 psycopg2-binary==2.9.9
-insightface==0.7.3
+insightface
 onnxruntime==1.18.0
 opencv-python-headless==4.10.0.84
 numpy==1.26.4
